@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I am a <br /> Developer!!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/darpanjbora" target="_blank" rel="noopener noreferrer">Go to Github <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/darpanjbora" target="_blank" rel="noopener noreferrer">Go to Github <i className="icon-github" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>And a photography enthusiast too. </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://www.instagram.com/darpanjb/" target="_blank" rel="noopener noreferrer">Wanna check Instagram? <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://www.instagram.com/darpanjb/" target="_blank" rel="noopener noreferrer">Go to Instagram <i className="icon-instagram" /></a></p>
                         </div>
                       </div>
                     </div>

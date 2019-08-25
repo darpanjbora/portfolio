@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer science undergraduate from NIT-Silchar. I love building web apps with the company of some snacks and drinks. <i className="icon-beer" aria-hidden="true" /></p>
+                    <p>I am a computer science graduate from NIT-Silchar. I love building web apps with the company of some snacks and drinks. <i className="icon-beer" aria-hidden="true" /></p>
                     </div>
                 </div>
                 </div>
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>MEARN Development </h3>
-                    <p>I have experience building web apps using Nodejs,React,AngularJS,HTML and CSS. And like most of the developers, I have met, I love working in the backend.</p>
+                    <h3>Full Stack Development </h3>
+                    <p>I have industry experience building web apps. I specialize in JavaScript and have professional experience working with Node.js, AngularJS and ReactJS. Also experienced in implementing Java Spring Boot Framework to create microservices. </p>
                 </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Photography</h3>
-                    <p>Yes, I own a Nikon D5200 and love to click pictures. :)</p>
+                    <p>Yes, I own a Nikon D5200 and love to click pictures. You can check my clicks <a href="https://www.instagram.com/darpanjb/" target="_blank" rel="noopener noreferrer">here</a>. ^_^</p>
                 </div>
                 </div>
             </div>
